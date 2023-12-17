@@ -98,10 +98,11 @@ client.on("interactionCreate", async (interaction) => {
         .setColor('#ffffff')
         .setTitle("*Copy Key Fluxus*")
         .setDescription("```" + keyWithoutSpaces + "```")
+        .setThumbnail('https://cdn.discordapp.com/attachments/1174616840614457394/1185919580695171182/moon-red.gif?ex=65915cad&is=657ee7ad&hm=5fd86ad89f3b0c2e6ae8b0b286e76ff5370c0d4e0ec8bb3ea306c93f3b7c231d&')
         .addFields(
           {
-            name: "**Create By HN Gaming ❤**",
-            value: "**Subscribe My Channel.**\n [HN Gaming](https://www.youtube.com/channel/UCVzNxeEWfSbnf_IK3YMhW3w)",
+            name: "**Create By Inaki ❤**",
+            value: "**Subscribe My Channel.**\n [HN Gaming](https://www.youtube.com/channel/UC4FEU-bdsIZAJI7xOpUIxbw)",
           },
         );
 

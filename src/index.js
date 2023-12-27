@@ -86,7 +86,7 @@ client.on("interactionCreate", async (interaction) => {
 				.setColor('#ffffff')
 				.setTitle("*Copy Key Fluxus*")
 				.setDescription("```" + keyWithoutSpaces + "```")
-				.setThumbnail('https://cdn.discordapp.com/attachments/1174616840614457394/1185919580695171182/moon-red.gif?ex=65915cad&is=657ee7ad&hm=5fd86ad89f3b0c2e6ae8b0b286e76ff5370c0d4e0ec8bb3ea306c93f3b7c231d&')
+				.setThumbnail('https://cdn.discordapp.com/attachments/1174616840614457394/1189486919655116801/Lumii_20231227_163542469.jpg?ex=659e5705&is=658be205&hm=44614244dbb0a7b3f2c043efb0bcfced4bf3239dcedfd472e7d6cf799a191ac5&')
 				.addFields(
 				  {
 					name: "**Create By Inaki ❤**",
